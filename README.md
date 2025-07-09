@@ -112,9 +112,9 @@ elit/
 
 
 
-git clone https://github.com/ethemkurtt/otel-rezervasyon.git
+git clone https://github.com/ethemkurtt/elit-test.git
 
-cd otel-rezervasyon
+cd elit-test
 
 
 
